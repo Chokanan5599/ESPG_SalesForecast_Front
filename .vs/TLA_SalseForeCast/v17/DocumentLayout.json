@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|d:\\source\\repos\\espg_salesforecast_front\\\u002724-june\\10\\tla_salseforecast\\tla_salseforecast\\views\\home\\salesforecasst_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|solutionrelative:tla_salseforecast\\views\\home\\salesforecasst_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|d:\\source\\repos\\espg_salesforecast_front\\\u002724-june\\10\\tla_salseforecast\\tla_salseforecast\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|solutionrelative:tla_salseforecast\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|d:\\source\\repos\\espg_salesforecast_front\\\u002724-june\\10\\tla_salseforecast\\tla_salseforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|solutionrelative:tla_salseforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|d:\\source\\repos\\espg_salesforecast_front\\\u002724-june\\10\\tla_salseforecast\\tla_salseforecast\\views\\home\\salesforecasst_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|solutionrelative:tla_salseforecast\\views\\home\\salesforecasst_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|d:\\source\\repos\\espg_salesforecast_front\\\u002724-june\\10\\tla_salseforecast\\tla_salseforecast\\views\\function_test\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD3E5907-1187-4616-8DE8-B178D0B71161}|TLA_SalseForeCast\\TLA_SalseForeCast.csproj|solutionrelative:tla_salseforecast\\views\\function_test\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 428,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 62,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesForeCasst_Detail.cshtml",
+              "DocumentMoniker": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Detail.cshtml",
+              "RelativeDocumentMoniker": "TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Detail.cshtml",
+              "ToolTip": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Detail.cshtml",
+              "RelativeToolTip": "TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Detail.cshtml",
+              "ViewState": "AQIAAJ8DAAAAAAAAAAAAAK4DAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:19:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Program.cs",
+              "RelativeDocumentMoniker": "TLA_SalseForeCast\\Program.cs",
+              "ToolTip": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Program.cs",
+              "RelativeToolTip": "TLA_SalseForeCast\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAHEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:47:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesForeCasst_Dashboard.cshtml",
+              "DocumentMoniker": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Dashboard.cshtml",
+              "ToolTip": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Dashboard.cshtml",
+              "RelativeToolTip": "TLA_SalseForeCast\\Views\\Home\\SalesForeCasst_Dashboard.cshtml",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:41:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TLA_SalseForeCast\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TLA_SalseForeCast\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAABgBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:42:41.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo.cshtml",
+              "DocumentMoniker": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Function_Test\\Demo.cshtml",
+              "RelativeDocumentMoniker": "TLA_SalseForeCast\\Views\\Function_Test\\Demo.cshtml",
+              "ToolTip": "D:\\source\\repos\\ESPG_SalesForecast_Front\\\u002724-June\\10\\TLA_SalseForeCast\\TLA_SalseForeCast\\Views\\Function_Test\\Demo.cshtml",
+              "RelativeToolTip": "TLA_SalseForeCast\\Views\\Function_Test\\Demo.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAF8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:19:50.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
